@@ -1,0 +1,1310 @@
+[
+    {
+        "address": "Alexandria, VA",
+        "geometry": {
+            "bounds": {
+                "south": 38.785216,
+                "west": -77.14435900000001,
+                "north": 38.845011,
+                "east": -77.03728790000002
+            },
+            "location": {
+                "lat": 38.8048355,
+                "lng": -77.04692139999997
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 38.785216,
+                "west": -77.14435900000001,
+                "north": 38.845011,
+                "east": -77.03728790000002
+            }
+        }
+    },
+    {
+        "address": "Annapolis, MD",
+        "geometry": {
+            "bounds": {
+                "south": 38.94202689999999,
+                "west": -76.53958390000003,
+                "north": 39.002911,
+                "east": -76.46980500000001
+            },
+            "location": {
+                "lat": 38.9784453,
+                "lng": -76.49218289999999
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 38.94202689999999,
+                "west": -76.53958390000003,
+                "north": 39.002911,
+                "east": -76.46980500000001
+            }
+        }
+    },
+    {
+        "address": "Arlington, VA",
+        "geometry": {
+            "bounds": {
+                "south": 38.82729,
+                "west": -77.17216910000002,
+                "north": 38.934343,
+                "east": -77.03214300000002
+            },
+            "location": {
+                "lat": 38.8816208,
+                "lng": -77.09098089999998
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 38.82729,
+                "west": -77.17216910000002,
+                "north": 38.934343,
+                "east": -77.03214300000002
+            }
+        }
+    },
+    {
+        "address": "Ashburn, VA",
+        "geometry": {
+            "bounds": {
+                "south": 38.9882859,
+                "west": -77.522806,
+                "north": 39.0716349,
+                "east": -77.43144010000003
+            },
+            "location": {
+                "lat": 39.0437567,
+                "lng": -77.48744160000001
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 38.9882859,
+                "west": -77.522806,
+                "north": 39.0716349,
+                "east": -77.43144010000003
+            }
+        }
+    },
+    {
+        "address": "Atlanta, GA",
+        "geometry": {
+            "bounds": {
+                "south": 33.6478079,
+                "west": -84.5518189,
+                "north": 33.8876179,
+                "east": -84.28938900000003
+            },
+            "location": {
+                "lat": 33.7489954,
+                "lng": -84.3879824
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 33.6478079,
+                "west": -84.5518189,
+                "north": 33.8876179,
+                "east": -84.28938900000003
+            }
+        }
+    },
+    {
+        "address": "Baltimore, MD",
+        "geometry": {
+            "bounds": {
+                "south": 39.1972069,
+                "west": -76.71151909999998,
+                "north": 39.3722059,
+                "east": -76.5294528
+            },
+            "location": {
+                "lat": 39.2903848,
+                "lng": -76.61218930000001
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.1972069,
+                "west": -76.71151909999998,
+                "north": 39.3722059,
+                "east": -76.5294528
+            }
+        }
+    },
+    {
+        "address": "Birmingham, AL",
+        "geometry": {
+            "bounds": {
+                "south": 33.3837599,
+                "west": -87.12212410000001,
+                "north": 33.6787149,
+                "east": -86.5781498
+            },
+            "location": {
+                "lat": 33.5206608,
+                "lng": -86.80248999999998
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 33.3837599,
+                "west": -87.12212410000001,
+                "north": 33.6787149,
+                "east": -86.5781498
+            }
+        }
+    },
+    {
+        "address": "Blacklick, OH",
+        "geometry": {
+            "bounds": {
+                "south": 39.9890199,
+                "west": -82.81682,
+                "north": 40.0005325,
+                "east": -82.80099029999997
+            },
+            "location": {
+                "lat": 39.99505190000001,
+                "lng": -82.81083660000002
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.9890199,
+                "west": -82.81682,
+                "north": 40.0005325,
+                "east": -82.80099029999997
+            }
+        }
+    },
+    {
+        "address": "Brewster, NY",
+        "geometry": {
+            "bounds": {
+                "south": 41.3911211,
+                "west": -73.62457749999999,
+                "north": 41.4032256,
+                "east": -73.60199869999997
+            },
+            "location": {
+                "lat": 41.3973163,
+                "lng": -73.61707209999997
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 41.3911211,
+                "west": -73.62457749999999,
+                "north": 41.4032256,
+                "east": -73.60199869999997
+            }
+        }
+    },
+    {
+        "address": "Brooklyn, NY",
+        "geometry": {
+            "bounds": {
+                "south": 40.551042,
+                "west": -74.05662999999998,
+                "north": 40.739446,
+                "east": -73.83336509999998
+            },
+            "location": {
+                "lat": 40.6781784,
+                "lng": -73.9441579
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 40.551042,
+                "west": -74.05662999999998,
+                "north": 40.739446,
+                "east": -73.83336509999998
+            }
+        }
+    },
+    {
+        "address": "Champaign, IL",
+        "geometry": {
+            "bounds": {
+                "south": 40.062188,
+                "west": -88.33317899999997,
+                "north": 40.1670741,
+                "east": -88.22104009999998
+            },
+            "location": {
+                "lat": 40.1164204,
+                "lng": -88.24338290000003
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 40.062188,
+                "west": -88.33317899999997,
+                "north": 40.1670741,
+                "east": -88.22104009999998
+            }
+        }
+    },
+    {
+        "address": "Charleston, SC",
+        "geometry": {
+            "bounds": {
+                "south": 32.6685048,
+                "west": -80.14378999999997,
+                "north": 32.973586,
+                "east": -79.79716589999998
+            },
+            "location": {
+                "lat": 32.7764749,
+                "lng": -79.93105120000001
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 32.6685048,
+                "west": -80.14378999999997,
+                "north": 32.973586,
+                "east": -79.79716589999998
+            }
+        }
+    },
+    {
+        "address": "Chicago, IL",
+        "geometry": {
+            "bounds": {
+                "south": 41.6443349,
+                "west": -87.94026689999998,
+                "north": 42.023131,
+                "east": -87.523661
+            },
+            "location": {
+                "lat": 41.8781136,
+                "lng": -87.62979819999998
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 41.6443349,
+                "west": -87.94026689999998,
+                "north": 42.023131,
+                "east": -87.523661
+            }
+        }
+    },
+    {
+        "address": "Columbia, MD",
+        "geometry": {
+            "bounds": {
+                "south": 39.1476489,
+                "west": -76.94319999999999,
+                "north": 39.24003889999999,
+                "east": -76.78696500000001
+            },
+            "location": {
+                "lat": 39.2037144,
+                "lng": -76.86104619999998
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.1476489,
+                "west": -76.94319999999999,
+                "north": 39.24003889999999,
+                "east": -76.78696500000001
+            }
+        }
+    },
+    {
+        "address": "Cumming, GA",
+        "geometry": {
+            "bounds": {
+                "south": 34.17355500000001,
+                "west": -84.157217,
+                "north": 34.2335089,
+                "east": -84.10404199999999
+            },
+            "location": {
+                "lat": 34.2073196,
+                "lng": -84.14019259999998
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 34.17355500000001,
+                "west": -84.157217,
+                "north": 34.2335089,
+                "east": -84.10404199999999
+            }
+        }
+    },
+    {
+        "address": "Dayton, OH",
+        "geometry": {
+            "bounds": {
+                "south": 39.7018339,
+                "west": -84.31137690000003,
+                "north": 39.9208229,
+                "east": -84.09293780000002
+            },
+            "location": {
+                "lat": 39.7589478,
+                "lng": -84.19160690000001
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.7018339,
+                "west": -84.31137690000003,
+                "north": 39.9208229,
+                "east": -84.09293780000002
+            }
+        }
+    },
+    {
+        "address": "Decatur, GA",
+        "geometry": {
+            "bounds": {
+                "south": 33.751003,
+                "west": -84.31573889999999,
+                "north": 33.7934991,
+                "east": -84.27812899999998
+            },
+            "location": {
+                "lat": 33.7748275,
+                "lng": -84.29631230000001
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 33.751003,
+                "west": -84.31573889999999,
+                "north": 33.7934991,
+                "east": -84.27812899999998
+            }
+        }
+    },
+    {
+        "address": "Decature, GA",
+        "geometry": {
+            "bounds": {
+                "south": 33.751003,
+                "west": -84.31573889999999,
+                "north": 33.7934991,
+                "east": -84.27812899999998
+            },
+            "location": {
+                "lat": 33.7748275,
+                "lng": -84.29631230000001
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 33.751003,
+                "west": -84.31573889999999,
+                "north": 33.7934991,
+                "east": -84.27812899999998
+            }
+        }
+    },
+    {
+        "address": "Downingtown, PA",
+        "geometry": {
+            "bounds": {
+                "south": 39.995422,
+                "west": -75.72714589999998,
+                "north": 40.0213229,
+                "east": -75.67575790000001
+            },
+            "location": {
+                "lat": 40.0064958,
+                "lng": -75.70327420000001
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.995422,
+                "west": -75.72714589999998,
+                "north": 40.0213229,
+                "east": -75.67575790000001
+            }
+        }
+    },
+    {
+        "address": "Duarte, CA",
+        "geometry": {
+            "bounds": {
+                "south": 34.1213861,
+                "west": -117.990543,
+                "north": 34.1943251,
+                "east": -117.92470400000002
+            },
+            "location": {
+                "lat": 34.1394513,
+                "lng": -117.9772873
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 34.1213861,
+                "west": -117.990543,
+                "north": 34.1943251,
+                "east": -117.92470400000002
+            }
+        }
+    },
+    {
+        "address": "East Haven, CT",
+        "geometry": {
+            "bounds": {
+                "south": 41.239121,
+                "west": -72.90508109999996,
+                "north": 41.3641969,
+                "east": -72.8172429
+            },
+            "location": {
+                "lat": 41.2841687,
+                "lng": -72.86845649999998
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 41.239121,
+                "west": -72.90508109999996,
+                "north": 41.3641969,
+                "east": -72.8172429
+            }
+        }
+    },
+    {
+        "address": "Elkridge, MD",
+        "geometry": {
+            "bounds": {
+                "south": 39.1798139,
+                "west": -76.796716,
+                "north": 39.225603,
+                "east": -76.69732479999999
+            },
+            "location": {
+                "lat": 39.1978788,
+                "lng": -76.76250729999998
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.1798139,
+                "west": -76.796716,
+                "north": 39.225603,
+                "east": -76.69732479999999
+            }
+        }
+    },
+    {
+        "address": "Ellicott City, MD",
+        "geometry": {
+            "bounds": {
+                "south": 39.21480500000001,
+                "west": -76.89447999999999,
+                "north": 39.3240909,
+                "east": -76.76382999999998
+            },
+            "location": {
+                "lat": 39.2673283,
+                "lng": -76.79830670000001
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.21480500000001,
+                "west": -76.89447999999999,
+                "north": 39.3240909,
+                "east": -76.76382999999998
+            }
+        }
+    },
+    {
+        "address": "Erie, CO",
+        "geometry": {
+            "bounds": {
+                "south": 40.000251,
+                "west": -105.10490600000003,
+                "north": 40.101477,
+                "east": -104.97934399999997
+            },
+            "location": {
+                "lat": 40.0502623,
+                "lng": -105.04998169999999
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 40.000251,
+                "west": -105.10490600000003,
+                "north": 40.101477,
+                "east": -104.97934399999997
+            }
+        }
+    },
+    {
+        "address": "Franklin, TN",
+        "geometry": {
+            "bounds": {
+                "south": 35.8293839,
+                "west": -86.94806089999997,
+                "north": 35.981542,
+                "east": -86.74781999999999
+            },
+            "location": {
+                "lat": 35.9250637,
+                "lng": -86.8688899
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 35.8293839,
+                "west": -86.94806089999997,
+                "north": 35.981542,
+                "east": -86.74781999999999
+            }
+        }
+    },
+    {
+        "address": "Halethorpe, MD",
+        "geometry": {
+            "bounds": {
+                "south": 39.227579,
+                "west": -76.69260780000002,
+                "north": 39.2591748,
+                "east": -76.66354509999996
+            },
+            "location": {
+                "lat": 39.2401735,
+                "lng": -76.6806441
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.227579,
+                "west": -76.69260780000002,
+                "north": 39.2591748,
+                "east": -76.66354509999996
+            }
+        }
+    },
+    {
+        "address": "Hawthorne, NJ",
+        "geometry": {
+            "bounds": {
+                "south": 40.9343298,
+                "west": -74.17158810000001,
+                "north": 40.9838651,
+                "east": -74.14104800000001
+            },
+            "location": {
+                "lat": 40.9492649,
+                "lng": -74.15375489999997
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 40.9343298,
+                "west": -74.17158810000001,
+                "north": 40.9838651,
+                "east": -74.14104800000001
+            }
+        }
+    },
+    {
+        "address": "Herndon, VA",
+        "geometry": {
+            "bounds": {
+                "south": 38.953251,
+                "west": -77.41359009999996,
+                "north": 38.988686,
+                "east": -77.36525899999998
+            },
+            "location": {
+                "lat": 38.9695545,
+                "lng": -77.38609759999997
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 38.953251,
+                "west": -77.41359009999996,
+                "north": 38.988686,
+                "east": -77.36525899999998
+            }
+        }
+    },
+    {
+        "address": "Hilton Head, SC",
+        "geometry": {
+            "bounds": {
+                "south": 32.0929748,
+                "west": -80.83245,
+                "north": 32.2740029,
+                "east": -80.66234209999999
+            },
+            "location": {
+                "lat": 32.216316,
+                "lng": -80.75260800000001
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 32.0929748,
+                "west": -80.83245,
+                "north": 32.2740029,
+                "east": -80.66234209999999
+            }
+        }
+    },
+    {
+        "address": "Inman, SC",
+        "geometry": {
+            "bounds": {
+                "south": 35.03659510000001,
+                "west": -82.10824000000002,
+                "north": 35.058593,
+                "east": -82.07185299999998
+            },
+            "location": {
+                "lat": 35.0470617,
+                "lng": -82.0901088
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 35.03659510000001,
+                "west": -82.10824000000002,
+                "north": 35.058593,
+                "east": -82.07185299999998
+            }
+        }
+    },
+    {
+        "address": "Lanham, MD",
+        "geometry": {
+            "bounds": {
+                "south": 38.961408,
+                "west": -76.86607470000001,
+                "north": 38.9749834,
+                "east": -76.85189350000002
+            },
+            "location": {
+                "lat": 38.96851119999999,
+                "lng": -76.86203269999999
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 38.961408,
+                "west": -76.86607470000001,
+                "north": 38.9749834,
+                "east": -76.85189350000002
+            }
+        }
+    },
+    {
+        "address": "Las Vegas, NV",
+        "geometry": {
+            "bounds": {
+                "south": 36.1296229,
+                "west": -115.414625,
+                "north": 36.380623,
+                "east": -115.062072
+            },
+            "location": {
+                "lat": 36.1699412,
+                "lng": -115.13982959999998
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 35.95,
+                "west": -115.39999999999998,
+                "north": 36.3,
+                "east": -114.94999999999999
+            }
+        }
+    },
+    {
+        "address": "Leesburg, VA",
+        "geometry": {
+            "bounds": {
+                "south": 39.066852,
+                "west": -77.60265779999997,
+                "north": 39.136094,
+                "east": -77.51364960000001
+            },
+            "location": {
+                "lat": 39.1156615,
+                "lng": -77.5636015
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.066852,
+                "west": -77.60265779999997,
+                "north": 39.136094,
+                "east": -77.51364960000001
+            }
+        }
+    },
+    {
+        "address": "Lincoln, NE",
+        "geometry": {
+            "bounds": {
+                "south": 40.7112819,
+                "west": -96.8041498,
+                "north": 40.8899361,
+                "east": -96.57730679999997
+            },
+            "location": {
+                "lat": 40.8257625,
+                "lng": -96.6851982
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 40.7112819,
+                "west": -96.8041498,
+                "north": 40.8899361,
+                "east": -96.57730679999997
+            }
+        }
+    },
+    {
+        "address": "Loganville, GA",
+        "geometry": {
+            "bounds": {
+                "south": 33.8108671,
+                "west": -83.93728599999997,
+                "north": 33.8577919,
+                "east": -83.860838
+            },
+            "location": {
+                "lat": 33.8389977,
+                "lng": -83.90073819999998
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 33.8108671,
+                "west": -83.93728599999997,
+                "north": 33.8577919,
+                "east": -83.860838
+            }
+        }
+    },
+    {
+        "address": "Marriottsville, MD",
+        "geometry": {
+            "bounds": {
+                "south": 39.3341483,
+                "west": -76.9086365,
+                "north": 39.354472,
+                "east": -76.89075869999999
+            },
+            "location": {
+                "lat": 39.3491115,
+                "lng": -76.89964739999999
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.3341483,
+                "west": -76.9086365,
+                "north": 39.354472,
+                "east": -76.89075869999999
+            }
+        }
+    },
+    {
+        "address": "Monkton, MD",
+        "geometry": {
+            "bounds": {
+                "south": 39.571798,
+                "west": -76.62401290000003,
+                "north": 39.584535,
+                "east": -76.60741469999999
+            },
+            "location": {
+                "lat": 39.5781625,
+                "lng": -76.61450580000002
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.571798,
+                "west": -76.62401290000003,
+                "north": 39.584535,
+                "east": -76.60741469999999
+            }
+        }
+    },
+    {
+        "address": "Moseley, VA",
+        "geometry": {
+            "location": {
+                "lat": 37.4153723,
+                "lng": -77.70588129999999
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 37.4065095,
+                "west": -77.72188870000002,
+                "north": 37.424234,
+                "east": -77.68987390000001
+            }
+        }
+    },
+    {
+        "address": "New York, NY",
+        "geometry": {
+            "bounds": {
+                "south": 40.4773991,
+                "west": -74.25908989999999,
+                "north": 40.9175771,
+                "east": -73.7002721
+            },
+            "location": {
+                "lat": 40.7127753,
+                "lng": -74.0059728
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 40.4773991,
+                "west": -74.25908989999999,
+                "north": 40.9175771,
+                "east": -73.7002721
+            }
+        }
+    },
+    {
+        "address": "Nolensville, TN",
+        "geometry": {
+            "bounds": {
+                "south": 35.934764,
+                "west": -86.68194679999999,
+                "north": 35.97422,
+                "east": -86.63680199999999
+            },
+            "location": {
+                "lat": 35.9522852,
+                "lng": -86.66944130000002
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 35.934764,
+                "west": -86.68194679999999,
+                "north": 35.97422,
+                "east": -86.63680199999999
+            }
+        }
+    },
+    {
+        "address": "Odenton, MD",
+        "geometry": {
+            "bounds": {
+                "south": 39.0193109,
+                "west": -76.73439100000002,
+                "north": 39.103308,
+                "east": -76.65508790000001
+            },
+            "location": {
+                "lat": 39.0839981,
+                "lng": -76.70024619999998
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.0193109,
+                "west": -76.73439100000002,
+                "north": 39.103308,
+                "east": -76.65508790000001
+            }
+        }
+    },
+    {
+        "address": "Orlando, FL",
+        "geometry": {
+            "bounds": {
+                "south": 28.3479859,
+                "west": -81.50772999999998,
+                "north": 28.6143519,
+                "east": -81.22977000000003
+            },
+            "location": {
+                "lat": 28.5383355,
+                "lng": -81.37923649999999
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 28.3479859,
+                "west": -81.50772999999998,
+                "north": 28.6143519,
+                "east": -81.22977000000003
+            }
+        }
+    },
+    {
+        "address": "Oviedo, FL",
+        "geometry": {
+            "bounds": {
+                "south": 28.6265691,
+                "west": -81.24162280000002,
+                "north": 28.6921191,
+                "east": -81.13415309999999
+            },
+            "location": {
+                "lat": 28.669997,
+                "lng": -81.20812030000002
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 28.6265691,
+                "west": -81.24162280000002,
+                "north": 28.6921191,
+                "east": -81.13415309999999
+            }
+        }
+    },
+    {
+        "address": "Owings Mills, MD",
+        "geometry": {
+            "bounds": {
+                "south": 39.3824739,
+                "west": -76.83135900000002,
+                "north": 39.447187,
+                "east": -76.7612699
+            },
+            "location": {
+                "lat": 39.4195499,
+                "lng": -76.78025279999997
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.3824739,
+                "west": -76.83135900000002,
+                "north": 39.447187,
+                "east": -76.7612699
+            }
+        }
+    },
+    {
+        "address": "Portland, OR",
+        "geometry": {
+            "bounds": {
+                "south": 45.432393,
+                "west": -122.83699519999999,
+                "north": 45.654424,
+                "east": -122.4718489
+            },
+            "location": {
+                "lat": 45.5230622,
+                "lng": -122.67648150000002
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 45.432393,
+                "west": -122.83699519999999,
+                "north": 45.654424,
+                "east": -122.4718489
+            }
+        }
+    },
+    {
+        "address": "Reston, VA",
+        "geometry": {
+            "bounds": {
+                "south": 38.9082409,
+                "west": -77.39325889999998,
+                "north": 39.0029229,
+                "east": -77.30486400000001
+            },
+            "location": {
+                "lat": 38.9586307,
+                "lng": -77.35700279999998
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 38.9082409,
+                "west": -77.39325889999998,
+                "north": 39.0029229,
+                "east": -77.30486400000001
+            }
+        }
+    },
+    {
+        "address": "Riverside, CA",
+        "geometry": {
+            "bounds": {
+                "south": 33.872517,
+                "west": -117.52388200000001,
+                "north": 34.01951409999999,
+                "east": -117.27517399999999
+            },
+            "location": {
+                "lat": 33.9533487,
+                "lng": -117.3961564
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 33.872517,
+                "west": -117.52388200000001,
+                "north": 34.01951409999999,
+                "east": -117.27517399999999
+            }
+        }
+    },
+    {
+        "address": "Roswell, GA",
+        "geometry": {
+            "bounds": {
+                "south": 33.9717281,
+                "west": -84.41913399999999,
+                "north": 34.118239,
+                "east": -84.26155799999998
+            },
+            "location": {
+                "lat": 34.0232431,
+                "lng": -84.36155550000001
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 33.9717281,
+                "west": -84.41913399999999,
+                "north": 34.118239,
+                "east": -84.26155799999998
+            }
+        }
+    },
+    {
+        "address": "San Diego, CA",
+        "geometry": {
+            "bounds": {
+                "south": 32.534856,
+                "west": -117.30979689999998,
+                "north": 33.114249,
+                "east": -116.90816000000001
+            },
+            "location": {
+                "lat": 32.715738,
+                "lng": -117.16108380000003
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 32.534856,
+                "west": -117.30979689999998,
+                "north": 33.114249,
+                "east": -116.90816000000001
+            }
+        }
+    },
+    {
+        "address": "San Francisco, CA",
+        "geometry": {
+            "bounds": {
+                "south": 37.6398299,
+                "west": -123.17382499999997,
+                "north": 37.9298239,
+                "east": -122.28178000000003
+            },
+            "location": {
+                "lat": 37.7749295,
+                "lng": -122.41941550000001
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 37.70339999999999,
+                "west": -122.52699999999999,
+                "north": 37.812,
+                "east": -122.34820000000002
+            }
+        }
+    },
+    {
+        "address": "Spring Grove, PA",
+        "geometry": {
+            "bounds": {
+                "south": 39.8691361,
+                "west": -76.87089609999998,
+                "north": 39.8957459,
+                "east": -76.85664009999999
+            },
+            "location": {
+                "lat": 39.8745436,
+                "lng": -76.86580779999997
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.8691361,
+                "west": -76.87089609999998,
+                "north": 39.8957459,
+                "east": -76.85664009999999
+            }
+        }
+    },
+    {
+        "address": "St. Louis, MO",
+        "geometry": {
+            "bounds": {
+                "south": 38.5318519,
+                "west": -90.320515,
+                "north": 38.774349,
+                "east": -90.16640899999999
+            },
+            "location": {
+                "lat": 38.6270025,
+                "lng": -90.1994042
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 38.5318519,
+                "west": -90.320515,
+                "north": 38.774349,
+                "east": -90.16640899999999
+            }
+        }
+    },
+    {
+        "address": "Statesville, NC",
+        "geometry": {
+            "bounds": {
+                "south": 35.719138,
+                "west": -80.969493,
+                "north": 35.83464900000001,
+                "east": -80.77855
+            },
+            "location": {
+                "lat": 35.7826363,
+                "lng": -80.88729590000003
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 35.719138,
+                "west": -80.969493,
+                "north": 35.83464900000001,
+                "east": -80.77855
+            }
+        }
+    },
+    {
+        "address": "Sterling, VA",
+        "geometry": {
+            "bounds": {
+                "south": 38.9827089,
+                "west": -77.43522989999997,
+                "north": 39.025042,
+                "east": -77.37151210000002
+            },
+            "location": {
+                "lat": 39.0066993,
+                "lng": -77.4291298
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 38.9827089,
+                "west": -77.43522989999997,
+                "north": 39.025042,
+                "east": -77.37151210000002
+            }
+        }
+    },
+    {
+        "address": "Surprise, AZ",
+        "geometry": {
+            "bounds": {
+                "south": 33.580078,
+                "west": -112.61180289999999,
+                "north": 33.7584249,
+                "east": -112.29816089999997
+            },
+            "location": {
+                "lat": 33.6292337,
+                "lng": -112.36792789999998
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 33.580078,
+                "west": -112.61180289999999,
+                "north": 33.7584249,
+                "east": -112.29816089999997
+            }
+        }
+    },
+    {
+        "address": "Sykesville, MD",
+        "geometry": {
+            "bounds": {
+                "south": 39.35790300000001,
+                "west": -76.98831000000001,
+                "north": 39.3875229,
+                "east": -76.95876499999997
+            },
+            "location": {
+                "lat": 39.3737149,
+                "lng": -76.96775660000003
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.35790300000001,
+                "west": -76.98831000000001,
+                "north": 39.3875229,
+                "east": -76.95876499999997
+            }
+        }
+    },
+    {
+        "address": "Timonium, MD",
+        "geometry": {
+            "location": {
+                "lat": 39.4370508,
+                "lng": -76.61969149999999
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.42843269999999,
+                "west": -76.63569889999997,
+                "north": 39.4456678,
+                "east": -76.60368410000001
+            }
+        }
+    },
+    {
+        "address": "Virginia Beach, VA",
+        "geometry": {
+            "bounds": {
+                "south": 36.5504529,
+                "west": -76.22776010000001,
+                "north": 37.040886,
+                "east": -75.7974969
+            },
+            "location": {
+                "lat": 36.8529263,
+                "lng": -75.97798499999999
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 36.5504529,
+                "west": -76.22776010000001,
+                "north": 37.040886,
+                "east": -75.7974969
+            }
+        }
+    },
+    {
+        "address": "Wagener, SC",
+        "geometry": {
+            "bounds": {
+                "south": 33.643628,
+                "west": -81.3753041,
+                "north": 33.6619071,
+                "east": -81.34965499999998
+            },
+            "location": {
+                "lat": 33.6523712,
+                "lng": -81.3612142
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 33.643628,
+                "west": -81.3753041,
+                "north": 33.6619071,
+                "east": -81.34965499999998
+            }
+        }
+    },
+    {
+        "address": "West Des Moines, IA",
+        "geometry": {
+            "bounds": {
+                "south": 41.4974281,
+                "west": -93.84812010000002,
+                "north": 41.6005028,
+                "east": -93.69810189999998
+            },
+            "location": {
+                "lat": 41.5772115,
+                "lng": -93.71133199999997
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 41.4974281,
+                "west": -93.84812010000002,
+                "north": 41.6005028,
+                "east": -93.69810189999998
+            }
+        }
+    }
+]

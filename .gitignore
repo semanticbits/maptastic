@@ -1,0 +1,37 @@
+### IntelliJ/Webstorm
+.idea/
+.idea_modules/
+### MonoDevelop template
+#User Specific
+*.userprefs
+*.usertasks
+
+#Mono Project Files
+*.pidb
+*.resources
+test-results/
+### Node template
+# Logs
+logs/
+*.log
+npm-debug.log*
+*.pid
+pids
+*.seed
+
+### Application specific
+.npm/
+node_modules/
+coverage
+unit_coverage/
+bower_components/
+typings/
+dist/
+docs
+.org.chromium*
+.com.google*
+pulse-*
+ts-node
+.vscode
+.DS_Store
+target/

@@ -1,0 +1,28 @@
+html {
+    height: 100%
+}
+body {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+
+    font-family: 'Montserrat', sans-serif;
+    background-color: #0065a4;
+}
+h1 {
+    font-family: 'Slabo 27px', serif;
+    margin-top: 18px;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgb(7, 7, 59);
+    color: #fb690f;
+}
+#map {
+    height: 100%;
+}
+.info-window-photo {
+    float:left;
+    margin-right: 12px;
+}
+.info-window-name-address {
+    float:left;
+}
