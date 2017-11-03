@@ -419,10 +419,8 @@ var initMap;
 
                             console.log("update cache", JSON.stringify(cache));
 
-                            addressUsers[address].forEach(function (user) {
-                                dropPin(user, geometry);
-                                fit();
-                            });
+                            dropPin(addressUsers[address], geometry);
+                            fit();
                         } else {
                             console.log(status);
                         }
