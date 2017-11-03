@@ -492,7 +492,8 @@ var initMap;
             }).then(function() {
                 return gapi.client.directory.users.list({
                     domain: 'semanticbits.com',
-                    viewType: 'domain_public'
+                    viewType: 'domain_public',
+                    maxResults: 500
                 });
             }).then(function(response) {
                 callback(response.result.users);
