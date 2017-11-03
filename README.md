@@ -2,8 +2,8 @@
 
 ## Getting Started
 
-```sh
+```
 npm i
 npm start
 ```
-Served at http://localhost:7777
+Served at http://localhost:8080
