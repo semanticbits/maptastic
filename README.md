@@ -2,9 +2,8 @@
 
 ## Getting Started
 
-```sh
-npm i
-npm run start
 ```
-
-- Served at http://localhost:8080
+npm i
+npm start
+```
+Served at http://localhost:8080

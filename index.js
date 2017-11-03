@@ -446,7 +446,7 @@ var initMap;
     }
 
     function createInfoWindow(marker, usersInCity) {
-        var infoWindowContent = '';
+        var infoWindowContent = '<div class="max-info-window-height">';
         usersInCity.forEach(function (user) {
             infoWindowContent +=
                 `<div>
@@ -460,6 +460,7 @@ var initMap;
                     <div class="clearFloat"></div>
                 </div>`;
         });
+        infoWindowContent += '</div>';
 
         marker.addListener('click', function () {
             infoWindow.setContent(infoWindowContent);

@@ -33,6 +33,11 @@ h1 {
     height: calc(100% - 90px);
 }
 
+.max-info-window-height {
+    max-height: 200px;
+    overflow: scroll;
+}
+
 .info-window-photo {
     float: left;
     margin-right: 12px;
@@ -44,11 +49,11 @@ h1 {
 }
 
 .info-window-name-address {
-    float:left;
+    float: left;
 }
 
 .clearFloat {
-     clear: both;
+    clear: both;
 }
 
 .camelCase {
