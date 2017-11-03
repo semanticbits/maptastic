@@ -446,7 +446,7 @@ var initMap;
     }
 
     function createInfoWindow(marker, usersInCity) {
-        var infoWindowContent;
+        var infoWindowContent = '';
         usersInCity.forEach(function (user) {
             infoWindowContent += user.thumbnailPhotoUrl ?
                 `<div>
