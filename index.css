@@ -1,6 +1,7 @@
 html {
     height: 100%
 }
+
 body {
     height: 100%;
     margin: 0px;
@@ -33,8 +34,13 @@ h1 {
 }
 
 .info-window-photo {
-    float:left;
+    float: left;
     margin-right: 12px;
+}
+
+.info-window-photo .default-photo {
+    height: 96px;
+    width: 96px;
 }
 
 .info-window-name-address {

@@ -448,22 +448,16 @@ var initMap;
     function createInfoWindow(marker, usersInCity) {
         var infoWindowContent = '';
         usersInCity.forEach(function (user) {
-            infoWindowContent += user.thumbnailPhotoUrl ?
+            infoWindowContent +=
                 `<div>
                     <div class="info-window-photo">
-                        <img src="${user.thumbnailPhotoUrl}" alt="${user.name.fullName}">
+                        <img src="${user.thumbnailPhotoUrl ? user.thumbnailPhotoUrl : '/images/sbits_logo.png'}" alt="${user.name.fullName}" class="${ user.thumbnailPhotoUrl ? '' : 'default-photo'}">
                     </div>
                     <div class="info-window-name-address camelCase">
                         <h2>${user.name.fullName}</h2>
                         <h3>${user.addresses[0].formatted}</h3>
                     </div>
                     <div class="clearFloat"></div>
-                </div>` :
-                `<div>
-                    <div class="camelCase">
-                        <h2>${user.name.fullName}</h2>
-                        <h3>${user.addresses[0].formatted}</h3>
-                    </div>
                 </div>`;
         });
 
