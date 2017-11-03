@@ -4,7 +4,7 @@
   "description": "",
   "main": "node.js",
   "scripts": {
-    "start": "http-server"
+    "start": "http-server -o -p 7777"
   },
   "author": "",
   "license": "ISC",

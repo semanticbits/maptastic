@@ -4,7 +4,6 @@
 
 ```sh
 npm i
-npm run start
+npm start
 ```
-
-- Served at http://localhost:8080
+On start browser will open to http://localhost:7777
