@@ -1306,5 +1306,247 @@
                 "east": -93.69810189999998
             }
         }
+    },
+    {
+        "address": "Woodbine, MD",
+        "geometry": {
+            "bounds": {
+                "south": 39.350566,
+                "west": -77.0800969,
+                "north": 39.3958551,
+                "east": -77.01563809999999
+            },
+            "location": {
+                "lat": 39.3738173,
+                "lng": -77.05690379999999
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.350566,
+                "west": -77.0800969,
+                "north": 39.3958551,
+                "east": -77.01563809999999
+            }
+        }
+    },
+    {
+        "address": "Erie, PA",
+        "geometry": {
+            "bounds": {
+                "south": 42.077238,
+                "west": -80.13851799999998,
+                "north": 42.153531,
+                "east": -80.003376
+            },
+            "location": {
+                "lat": 42.12922409999999,
+                "lng": -80.085059
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 42.077238,
+                "west": -80.13851799999998,
+                "north": 42.153531,
+                "east": -80.003376
+            }
+        }
+    },
+    {
+        "address": "Randallstown, MD",
+        "geometry": {
+            "bounds": {
+                "south": 39.345448,
+                "west": -76.84330790000001,
+                "north": 39.392655,
+                "east": -76.7468399
+            },
+            "location": {
+                "lat": 39.3673278,
+                "lng": -76.7952525
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.345448,
+                "west": -76.84330790000001,
+                "north": 39.392655,
+                "east": -76.7468399
+            }
+        }
+    },
+    {
+        "address": "Torrance, CA",
+        "geometry": {
+            "bounds": {
+                "south": 33.780217,
+                "west": -118.39409089999998,
+                "north": 33.8870609,
+                "east": -118.30812700000001
+            },
+            "location": {
+                "lat": 33.8358492,
+                "lng": -118.34062879999999
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 33.780217,
+                "west": -118.39409089999998,
+                "north": 33.8870609,
+                "east": -118.30812700000001
+            }
+        }
+    },
+    {
+        "address": "Irvine, CA",
+        "geometry": {
+            "bounds": {
+                "south": 33.5993914,
+                "west": -117.8687519,
+                "north": 33.7736521,
+                "east": -117.6780258
+            },
+            "location": {
+                "lat": 33.6845673,
+                "lng": -117.82650490000003
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 33.5993914,
+                "west": -117.8687519,
+                "north": 33.7736521,
+                "east": -117.6780258
+            }
+        }
+    },
+    {
+        "address": "Miami, FL",
+        "geometry": {
+            "bounds": {
+                "south": 25.709042,
+                "west": -80.31975990000001,
+                "north": 25.855773,
+                "east": -80.13915700000001
+            },
+            "location": {
+                "lat": 25.7616798,
+                "lng": -80.19179020000001
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 25.709042,
+                "west": -80.31975990000001,
+                "north": 25.855773,
+                "east": -80.13915700000001
+            }
+        }
+    },
+    {
+        "address": "Des Moines, IA",
+        "geometry": {
+            "bounds": {
+                "south": 41.479264,
+                "west": -93.70981699999999,
+                "north": 41.6540759,
+                "east": -93.50321500000001
+            },
+            "location": {
+                "lat": 41.6005448,
+                "lng": -93.60910639999997
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 41.479264,
+                "west": -93.70981699999999,
+                "north": 41.6540759,
+                "east": -93.50321500000001
+            }
+        }
+    },
+    {
+        "address": "Nottingham, MD",
+        "geometry": {
+            "bounds": {
+                "south": 39.3648106,
+                "west": -76.46093459999997,
+                "north": 39.3745019,
+                "east": -76.4460479
+            },
+            "location": {
+                "lat": 39.3698263,
+                "lng": -76.45486260000001
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.3648106,
+                "west": -76.46093459999997,
+                "north": 39.3745019,
+                "east": -76.4460479
+            }
+        }
+    },
+    {
+        "address": "Orange Park, FL",
+        "geometry": {
+            "bounds": {
+                "south": 30.1447401,
+                "west": -81.7309191,
+                "north": 30.19159,
+                "east": -81.6796329
+            },
+            "location": {
+                "lat": 30.1660736,
+                "lng": -81.70648399999999
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 30.1447401,
+                "west": -81.7309191,
+                "north": 30.19159,
+                "east": -81.6796329
+            }
+        }
+    },
+    {
+        "address": "Noida, India",
+        "geometry": {
+            "bounds": {
+                "south": 28.397206,
+                "west": 77.29369670000005,
+                "north": 28.6363011,
+                "east": 77.50256330000002
+            },
+            "location": {
+                "lat": 28.5355161,
+                "lng": 77.39102649999995
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 28.397206,
+                "west": 77.29369670000005,
+                "north": 28.6363011,
+                "east": 77.50256330000002
+            }
+        }
+    },
+    {
+        "address": "Bluffton, SC",
+        "geometry": {
+            "bounds": {
+                "south": 32.126241,
+                "west": -81.0141529,
+                "north": 32.290968,
+                "east": -80.84837590000001
+            },
+            "location": {
+                "lat": 32.2371465,
+                "lng": -80.86038680000001
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 32.126241,
+                "west": -81.0141529,
+                "north": 32.290968,
+                "east": -80.84837590000001
+            }
+        }
     }
 ]
