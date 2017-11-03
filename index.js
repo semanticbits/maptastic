@@ -361,10 +361,10 @@ var initMap;
                     ]
                 }
             ],
-        {name: 'Styled Map'});
+        { name: 'Styled Map' });
 
         map = new google.maps.Map(document.getElementById('map'), {
-            center: {lat: 39.50, lng: -98.35},
+            center: { lat: 39.50, lng: -98.35 },
             zoom: 5,
             mapTypeControlOptions: {
                 mapTypeIds: ['styled_map']
@@ -376,11 +376,11 @@ var initMap;
         map.setMapTypeId('styled_map');
 
         loadUsers(function (users) {
-            loadCache(function(cache) {
+            loadCache(function (cache) {
                 render(users, cache);
-            })
+            });
         });
-    }
+    };
 
     function render(users, cache) {
         var addressUsers = users.filter(function(user) {
@@ -394,8 +394,8 @@ var initMap;
             return agg;
         }, {});
 
-        cache.forEach(function(item) {
-            (addressUsers[item.address] || []).forEach(function (user) { dropPin(user, item.geometry) })
+        cache.forEach(function (location) {
+            dropPin(addressUsers[location.address] || [], location.geometry);
         });
 
         fit();
@@ -419,10 +419,8 @@ var initMap;
 
                             console.log("update cache", JSON.stringify(cache));
 
-                            addressUsers[address].forEach(function (user) {
-                                dropPin(user, geometry);
-                                fit();
-                            });
+                            dropPin(addressUsers[address], geometry);
+                            fit();
                         } else {
                             console.log(status);
                         }
@@ -435,31 +433,33 @@ var initMap;
         map.fitBounds(bounds);
     }
 
-    function dropPin(user, geometry) {
+    function dropPin(usersInCity, geometry) {
         var marker = new google.maps.Marker({
             map: map,
             position: geometry.location,
-            title: user.name.fullName + " - " + user.addresses[0].formatted,
+            title: usersInCity.map(user => user.name.fullName).join(', '),
             icon: '/images/orange-marker.png'
-        });;
+        });
 
         bounds.extend(geometry.location);
-        createInfoWindow(marker, user.name.fullName, user.addresses[0].formatted, user.thumbnailPhotoUrl);
+        createInfoWindow(marker, usersInCity);
     }
 
-    function createInfoWindow(marker, fullName, addressFormatted, photoUrl) {
-        var infoWindowContent = photoUrl ?
-            `<div class="info-window-photo">
-                <img src="${photoUrl}" alt="${fullName}">
-            </div>
-            <div class="info-window-name-address">
-                <h2>${fullName}</h2>
-                <h3>${addressFormatted}</h3>
-            </div>` :
-            `<div>
-                <h2>${fullName}</h2>
-                <h3>${addressFormatted}</h3>
-            </div>`;
+    function createInfoWindow(marker, usersInCity) {
+        var infoWindowContent = '';
+        usersInCity.forEach(function (user) {
+            infoWindowContent +=
+                `<div>
+                    <div class="info-window-photo">
+                        <img src="${user.thumbnailPhotoUrl ? user.thumbnailPhotoUrl : '/images/sbits_logo.png'}" alt="${user.name.fullName}" class="${ user.thumbnailPhotoUrl ? '' : 'default-photo'}">
+                    </div>
+                    <div class="info-window-name-address camelCase">
+                        <h2>${user.name.fullName}</h2>
+                        <h3>${user.addresses[0].formatted}</h3>
+                    </div>
+                    <div class="clearFloat"></div>
+                </div>`;
+        });
 
         marker.addListener('click', function () {
             infoWindow.setContent(infoWindowContent);
