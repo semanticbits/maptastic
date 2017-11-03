@@ -440,10 +440,7 @@ var initMap;
             map: map,
             position: geometry.location,
             title: user.name.fullName + " - " + user.addresses[0].formatted,
-            icon: {
-                url: '/orange-marker.png',
-                // size: new google.maps.Size(17, 25)
-            }
+            icon: '/images/orange-marker.png'
         });;
 
         bounds.extend(geometry.location);
