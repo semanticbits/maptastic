@@ -40,3 +40,11 @@ h1 {
 .info-window-name-address {
     float:left;
 }
+
+.clearFloat {
+     clear: both;
+}
+
+.camelCase {
+    text-transform: capitalize;
+}
