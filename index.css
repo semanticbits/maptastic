@@ -5,24 +5,38 @@ body {
     height: 100%;
     margin: 0px;
     padding: 0px;
-
     font-family: 'Montserrat', sans-serif;
-    background-color: #0065a4;
 }
+
+.header {
+    background-color: white;
+    height: 90px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
 h1 {
-    font-family: 'Slabo 27px', serif;
-    margin-top: 18px;
+    font-size: 30px;
     text-align: center;
-    text-shadow: 1px 1px 1px rgb(7, 7, 59);
-    color: #fb690f;
+    color: #015c81;
 }
+
+#logo {
+    width: 250px;
+    vertical-align: -15px;
+    margin-right: 10px;
+}
+
 #map {
-    height: 100%;
+    height: calc(100% - 90px);
 }
+
 .info-window-photo {
     float:left;
     margin-right: 12px;
 }
+
 .info-window-name-address {
     float:left;
 }
