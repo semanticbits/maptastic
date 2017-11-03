@@ -394,7 +394,7 @@ var initMap;
             return agg;
         }, {});
 
-        cache.forEach(location => {
+        cache.forEach(function (location) {
             dropPin(addressUsers[location.address] || [], location.geometry);
         });
 
@@ -447,7 +447,7 @@ var initMap;
 
     function createInfoWindow(marker, usersInCity) {
         var infoWindowContent;
-        usersInCity.forEach(user => {
+        usersInCity.forEach(function (user) {
             infoWindowContent += user.thumbnailPhotoUrl ?
                 `<div>
                     <div class="info-window-photo">
