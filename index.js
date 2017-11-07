@@ -498,10 +498,15 @@ var initMap;
                 });
             }).then(function(response) {
                 callback(response.result.users);
-            }, function(reason) {
+            }, function (reason) {
+                if (reason.error === 'popup_blocked_by_browser') {
+                    var modal = new VanillaModal.default();
+                    modal.open('#popup-message-modal');
+                }
+
                 console.log('Error: ', reason);
             });
-        };
+        }
     }
 
     function loadCache(callback) {

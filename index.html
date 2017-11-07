@@ -14,10 +14,24 @@
 </head>
 <body>
     <div class="header">
-
         <h1><img src="/images/sbits_logo.svg" id="logo"/>Colleague Map</h1>
     </div>
+
     <div id="map"></div>
+
+    <div id="popup-message-modal" style="display:none">
+        <p>
+            Please allow popups to view colleagues.
+        </p>
+    </div>
+    <div class="modal">
+        <div class="modal-inner">
+            <span data-modal-close>&times;</span>
+            <div class="modal-content"></div>
+        </div>
+    </div>
+
+    <script src="/modal.js"></script>
     <script src="/index.js"></script>
     <script src="https://apis.google.com/js/api.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA6SKN8CqXC7gG990CXFKH2nEcv6ha84qM&callback=initMap" async defer></script>
