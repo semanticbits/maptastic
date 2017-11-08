@@ -364,7 +364,7 @@ var initMap;
         { name: 'Styled Map' });
 
         map = new google.maps.Map(document.getElementById('map'), {
-            center: { lat: 39.50, lng: -98.35 },
+            center: { lat: 38.59, lng: -95.36 },
             zoom: 5,
             mapTypeControlOptions: {
                 mapTypeIds: ['styled_map']
@@ -398,8 +398,6 @@ var initMap;
             dropPin(addressUsers[location.address] || [], location.geometry);
         });
 
-        fit();
-
         var alreadyGeocoded = cache.map(function(item) { return item.address });
 
         Object.keys(addressUsers)
@@ -420,17 +418,12 @@ var initMap;
                             console.log("update cache", JSON.stringify(cache));
 
                             dropPin(addressUsers[address], geometry);
-                            fit();
                         } else {
                             console.log(status);
                         }
                     });
                 }
             });
-    }
-
-    function fit() {
-        map.fitBounds(bounds);
     }
 
     function dropPin(usersInCity, geometry) {
