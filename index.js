@@ -361,7 +361,7 @@ var initMap;
                     ]
                 }
             ],
-        { name: 'Styled Map' });
+        { name: 'SemanticBits' });
 
         map = new google.maps.Map(document.getElementById('map'), {
             center: { lat: 38.59, lng: -95.36 },

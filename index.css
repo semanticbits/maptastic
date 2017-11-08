@@ -15,7 +15,7 @@ body {
     background: -webkit-linear-gradient(45deg, #f97c00 0%,#00558e 76%);
     background: linear-gradient(45deg, #f97c00 0%,#00558e 76%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f97c00', endColorstr='#00558e',GradientType=1 );
-    height: 55px;
+    height: 80px;
     display: flex;
     align-content: center;
     justify-content: center;
@@ -25,20 +25,21 @@ body {
 }
 
 h1 {
-    font-size: 17px;
+    font-size: 28px;
     text-align: center;
-    color: #eee;
-    text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+    color: #fff;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    margin-top: 12px;
 }
 
 #logo {
-    width: 150px;
-    vertical-align: -12px;
-    margin-right: 5px;
+    width: 251px;
+    vertical-align: -18.5px;
+    margin-right: 7px;
 }
 
 #map {
-    height: 100%;
+    height: calc(100% - 80px);
 }
 
 .max-info-window-height {
