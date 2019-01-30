@@ -1548,5 +1548,197 @@
                 "east": -80.84837590000001
             }
         }
+    },
+    {
+        "address": "Manteca, CA",
+        "geometry": {
+            "bounds": {
+                "south": 37.661113,
+                "west": -121.31570440000002,
+                "north": 37.8886449,
+                "east": -121.14284809999998
+            },
+            "location": {
+                "lat": 37.7974273,
+                "lng": -121.21605260000001
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 37.661113,
+                "west": -121.31570440000002,
+                "north": 37.8886449,
+                "east": -121.14284809999998
+            }
+        }
+    },
+    {
+        "address": "Falls Church, VA",
+        "geometry": {
+            "bounds": {
+                "south": 38.8722096,
+                "west": -77.19485120000002,
+                "north": 38.8998318,
+                "east": -77.14978889999998
+            },
+            "location": {
+                "lat": 38.88233400000001,
+                "lng": -77.17109140000002
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 38.8722096,
+                "west": -77.19485120000002,
+                "north": 38.8998318,
+                "east": -77.14978889999998
+            }
+        }
+    },
+    {
+        "address": "2025 Woodmont Blvd\nApt 317\nNashville, TN 37215",
+        "geometry": {
+            "location": {
+                "lat": 36.1135215,
+                "lng": -86.81029079999996
+            },
+            "location_type": "ROOFTOP",
+            "viewport": {
+                "south": 36.1121725197085,
+                "west": -86.8116397802915,
+                "north": 36.1148704802915,
+                "east": -86.80894181970848
+            }
+        }
+    },
+    {
+        "address": "Frisco, TX",
+        "geometry": {
+            "bounds": {
+                "south": 33.0810508,
+                "west": -96.92283800000001,
+                "north": 33.2194789,
+                "east": -96.73275790000002
+            },
+            "location": {
+                "lat": 33.1506744,
+                "lng": -96.82361159999999
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 33.0810508,
+                "west": -96.92283800000001,
+                "north": 33.2194789,
+                "east": -96.73275790000002
+            }
+        }
+    },
+    {
+        "address": "Loudoun, VA",
+        "geometry": {
+            "bounds": {
+                "south": 38.846368,
+                "west": -77.96215689999997,
+                "north": 39.324598,
+                "east": -77.32624190000001
+            },
+            "location": {
+                "lat": 39.076767,
+                "lng": -77.65361250000001
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 38.846368,
+                "west": -77.96215689999997,
+                "north": 39.324598,
+                "east": -77.32624190000001
+            }
+        }
+    },
+    {
+        "address": "Edmond, OK",
+        "geometry": {
+            "bounds": {
+                "south": 35.608841,
+                "west": -97.54951899999998,
+                "north": 35.7255509,
+                "east": -97.26496700000001
+            },
+            "location": {
+                "lat": 35.6528323,
+                "lng": -97.47809540000003
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 35.608841,
+                "west": -97.54951899999998,
+                "north": 35.7255509,
+                "east": -97.26496700000001
+            }
+        }
+    },
+    {
+        "address": "Severna Park, MD",
+        "geometry": {
+            "bounds": {
+                "south": 39.0405121,
+                "west": -76.63093300000003,
+                "north": 39.126109,
+                "east": -76.50958509999998
+            },
+            "location": {
+                "lat": 39.070388,
+                "lng": -76.54524090000001
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 39.0405121,
+                "west": -76.63093300000003,
+                "north": 39.126109,
+                "east": -76.50958509999998
+            }
+        }
+    },
+    {
+        "address": "Warrington, PA",
+        "geometry": {
+            "bounds": {
+                "south": 40.210886,
+                "west": -75.21413280000002,
+                "north": 40.2831289,
+                "east": -75.11099279999996
+            },
+            "location": {
+                "lat": 40.250319,
+                "lng": -75.1662121
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 40.210886,
+                "west": -75.21413280000002,
+                "north": 40.2831289,
+                "east": -75.11099279999996
+            }
+        }
+    },
+    {
+        "address": "Jackson Heights, NY",
+        "geometry": {
+            "bounds": {
+                "south": 40.74683640000001,
+                "west": -73.89885099999998,
+                "north": 40.7717449,
+                "east": -73.86927159999999
+            },
+            "location": {
+                "lat": 40.7556818,
+                "lng": -73.8830701
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "south": 40.74683640000001,
+                "west": -73.89885099999998,
+                "north": 40.7717449,
+                "east": -73.86927159999999
+            }
+        }
     }
 ]
